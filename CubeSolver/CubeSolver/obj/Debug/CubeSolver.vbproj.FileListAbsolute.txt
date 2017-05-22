@@ -1,0 +1,11 @@
+Y:\Google Drive\Spring 2016 - School\CS 560 Algorithms\Group Project stuff\CubeSolverInt\CubeSolver\CubeSolver\bin\Debug\CubeSolver.exe.config
+Y:\Google Drive\Spring 2016 - School\CS 560 Algorithms\Group Project stuff\CubeSolverInt\CubeSolver\CubeSolver\bin\Debug\CubeSolver.exe
+Y:\Google Drive\Spring 2016 - School\CS 560 Algorithms\Group Project stuff\CubeSolverInt\CubeSolver\CubeSolver\bin\Debug\CubeSolver.pdb
+Y:\Google Drive\Spring 2016 - School\CS 560 Algorithms\Group Project stuff\CubeSolverInt\CubeSolver\CubeSolver\bin\Debug\CubeSolver.xml
+Y:\Google Drive\Spring 2016 - School\CS 560 Algorithms\Group Project stuff\CubeSolverInt\CubeSolver\CubeSolver\obj\Debug\CubeSolver.vbprojResolveAssemblyReference.cache
+Y:\Google Drive\Spring 2016 - School\CS 560 Algorithms\Group Project stuff\CubeSolverInt\CubeSolver\CubeSolver\obj\Debug\CubeSolver.Form1.resources
+Y:\Google Drive\Spring 2016 - School\CS 560 Algorithms\Group Project stuff\CubeSolverInt\CubeSolver\CubeSolver\obj\Debug\CubeSolver.Resources.resources
+Y:\Google Drive\Spring 2016 - School\CS 560 Algorithms\Group Project stuff\CubeSolverInt\CubeSolver\CubeSolver\obj\Debug\CubeSolver.vbproj.GenerateResource.Cache
+Y:\Google Drive\Spring 2016 - School\CS 560 Algorithms\Group Project stuff\CubeSolverInt\CubeSolver\CubeSolver\obj\Debug\CubeSolver.exe
+Y:\Google Drive\Spring 2016 - School\CS 560 Algorithms\Group Project stuff\CubeSolverInt\CubeSolver\CubeSolver\obj\Debug\CubeSolver.xml
+Y:\Google Drive\Spring 2016 - School\CS 560 Algorithms\Group Project stuff\CubeSolverInt\CubeSolver\CubeSolver\obj\Debug\CubeSolver.pdb

@@ -1,0 +1,12 @@
+﻿  uCube.cpp
+  puzzlePiece.cpp
+y:\google drive\spring 2016 - school\cs 560 algorithms\group project stuff\cubesolverint\cubesolvereng3\cubesolvereng3\puzzlepiece.cpp(130): warning C4018: '<': signed/unsigned mismatch
+  Node.cpp
+  dlxSolver.cpp
+  CubeSolver.cpp
+  cubeConfig.cpp
+  Generating Code...
+y:\google drive\spring 2016 - school\cs 560 algorithms\group project stuff\cubesolverint\cubesolvereng3\cubesolvereng3\dlxsolver.cpp(158): warning C4715: 'dlxSolver::dlxStart': not all control paths return a value
+y:\google drive\spring 2016 - school\cs 560 algorithms\group project stuff\cubesolverint\cubesolvereng3\cubesolvereng3\dlxsolver.cpp(204): warning C4715: 'dlxSolver::getSolution': not all control paths return a value
+  CubeSolverENG3.vcxproj -> Y:\Google Drive\Spring 2016 - School\CS 560 Algorithms\Group Project stuff\CubeSolverInt\CubeSolverENG3\Debug\CubeSolverENG3.exe
+  CubeSolverENG3.vcxproj -> Y:\Google Drive\Spring 2016 - School\CS 560 Algorithms\Group Project stuff\CubeSolverInt\CubeSolverENG3\Debug\CubeSolverENG3.pdb (Partial PDB)
